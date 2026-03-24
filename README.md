@@ -15,7 +15,7 @@ The goal of this project is to:
 The dataset contains synthetic healthcare records, which makes it suitable for portfolio practice without real patient privacy issues.
 
 Main columns include:
--`Name` – patient name,
+- `Name` – patient name,
 - `Age` – patient age,
 - `Gender` – patient gender,
 - `Blood Type` – patient blood group,​
