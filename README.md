@@ -27,6 +27,6 @@ Main columns include:
 - `Insurance Provider` – insurance company,​
 - `Billing Amount` – treatment cost,
 - `Admission Type` – type of admission,
-​- `Medication` – prescribed medication,
+- `Medication` – prescribed medication,
 - `​Test Results` – medical test outcome.
 ​
